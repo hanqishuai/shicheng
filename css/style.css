@@ -123,7 +123,7 @@ nav a:focus {
 /*--header end here--*/
 /*--banner start here--*/
 .banner {
-    background: url(../images/mainfig.jpg)no-repeat;
+    background: url(../images/p1.jpg)no-repeat;
     background-size: cover;
     min-height:720px;
 }
